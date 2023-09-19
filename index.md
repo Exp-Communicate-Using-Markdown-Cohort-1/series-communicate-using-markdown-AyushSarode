@@ -4,3 +4,5 @@
 #### `C#` is a programming language developed by Microsoft, often used for building software applications, including Windows desktop applications, web applications, and games.
 ##### `JavaScript` is a programming language used for creating interactive and dynamic elements on websites.
 ###### `ReactJS` is a JavaScript library for building user interfaces in web applications.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
