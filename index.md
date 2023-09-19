@@ -11,3 +11,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [x] Debug the Java Code.
+- [x] edit the file.
+- [ ] Commit Changes
